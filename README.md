@@ -1,13 +1,8 @@
-# Sample Hardhat Project
+# Project Create NFT on-chain and Auction NFT 45minute
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
 
-Try running some of the following tasks:
+Create NFT  on-chain fee = 0, when is user up level , up speed , up life is fee = 0.01 coin with function train. 
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+Auction-NFT when user minted and trained on smart contract NFT . User can auction nft for everyone . and everyone can auction.
+
