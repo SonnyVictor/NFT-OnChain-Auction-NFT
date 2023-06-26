@@ -1,0 +1,2 @@
+NPCnft = 0x85100173367853b94cb92a5cade7f9b5082ddede;
+Auction = 0x1420e6a2b68f3ba87c5e5e81cd87a2671a740b7f;
